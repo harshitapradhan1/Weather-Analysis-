@@ -1,0 +1,37 @@
+[
+    {
+        "city": "New York",
+        "temperature": 13.73,
+        "humidity": 94,
+        "description": "overcast clouds",
+        "wind_speed": 4.81
+    },
+    {
+        "city": "London",
+        "temperature": 16.72,
+        "humidity": 87,
+        "description": "overcast clouds",
+        "wind_speed": 5.43
+    },
+    {
+        "city": "Tokyo",
+        "temperature": 21.14,
+        "humidity": 51,
+        "description": "light rain",
+        "wind_speed": 5.22
+    },
+    {
+        "city": "Paris",
+        "temperature": 17.21,
+        "humidity": 65,
+        "description": "overcast clouds",
+        "wind_speed": 2.62
+    },
+    {
+        "city": "Sydney",
+        "temperature": 16.25,
+        "humidity": 72,
+        "description": "light rain",
+        "wind_speed": 5.34
+    }
+]

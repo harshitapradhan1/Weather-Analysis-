@@ -1,0 +1,169 @@
+    INFO: 2025-05-29 14:08:13,615:               log.py:   20: Logging to /Users/harshitapradhan/Desktop/OND intern/mdpdf.log
+   DEBUG: 2025-05-29 14:08:13,615:               cli.py:  103: submission_details.md
+    INFO: 2025-05-29 14:08:13,616:         converter.py:   14: submission_details.md
+   DEBUG: 2025-05-29 14:08:13,620:      pdf_renderer.py:  470: printSegment: Weather Dashboard Project Submission
+   DEBUG: 2025-05-29 14:08:13,621:      pdf_renderer.py:  470: printSegment: Project Overview
+   DEBUG: 2025-05-29 14:08:13,630:      pdf_renderer.py:  470: printSegment: This submission includes a comprehensive weather monitoring dashboard that provides real-time weather data
+   DEBUG: 2025-05-29 14:08:13,634:      pdf_renderer.py:  470: printSegment: visualization and analysis. The project demonstrates the implementation of a modern web application using Python
+   DEBUG: 2025-05-29 14:08:13,635:      pdf_renderer.py:  470: printSegment: and various data visualization libraries.
+   DEBUG: 2025-05-29 14:08:13,636:      pdf_renderer.py:  470: printSegment: Submission Contents
+   DEBUG: 2025-05-29 14:08:13,636:      pdf_renderer.py:  470: printSegment: Core Files
+   DEBUG: 2025-05-29 14:08:13,636:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-29 14:08:13,639:      pdf_renderer.py:  470: printSegment: weather_report.py
+   DEBUG: 2025-05-29 14:08:13,640:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,641:      pdf_renderer.py:  470: printSegment: Main weather data fetching module
+   DEBUG: 2025-05-29 14:08:13,642:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,643:      pdf_renderer.py:  470: printSegment: OpenWeatherMap API integration
+   DEBUG: 2025-05-29 14:08:13,643:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,644:      pdf_renderer.py:  470: printSegment: Core data processing functions
+   DEBUG: 2025-05-29 14:08:13,644:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-29 14:08:13,644:      pdf_renderer.py:  470: printSegment: streamlit_app.py
+   DEBUG: 2025-05-29 14:08:13,645:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,645:      pdf_renderer.py:  470: printSegment: Interactive dashboard implementation
+   DEBUG: 2025-05-29 14:08:13,645:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,646:      pdf_renderer.py:  470: printSegment: Real-time data visualization
+   DEBUG: 2025-05-29 14:08:13,646:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,647:      pdf_renderer.py:  470: printSegment: User interface components
+   DEBUG: 2025-05-29 14:08:13,647:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-29 14:08:13,648:      pdf_renderer.py:  470: printSegment: requirements.txt
+   DEBUG: 2025-05-29 14:08:13,649:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,649:      pdf_renderer.py:  470: printSegment: Complete list of project dependencies
+   DEBUG: 2025-05-29 14:08:13,650:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,650:      pdf_renderer.py:  470: printSegment: Specific version requirements
+   DEBUG: 2025-05-29 14:08:13,651:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,651:      pdf_renderer.py:  470: printSegment: Easy installation support
+   DEBUG: 2025-05-29 14:08:13,652:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-05-29 14:08:13,652:      pdf_renderer.py:  470: printSegment: README.md
+   DEBUG: 2025-05-29 14:08:13,653:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,653:      pdf_renderer.py:  470: printSegment: Detailed project documentation
+   DEBUG: 2025-05-29 14:08:13,654:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,654:      pdf_renderer.py:  470: printSegment: Setup and running instructions
+   DEBUG: 2025-05-29 14:08:13,655:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,655:      pdf_renderer.py:  470: printSegment: Technical approach explanation
+   DEBUG: 2025-05-29 14:08:13,656:      pdf_renderer.py:  470: printSegment: Supporting Files
+   DEBUG: 2025-05-29 14:08:13,656:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-29 14:08:13,656:      pdf_renderer.py:  470: printSegment: cities.txt
+   DEBUG: 2025-05-29 14:08:13,657:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,657:      pdf_renderer.py:  470: printSegment: List of monitored cities
+   DEBUG: 2025-05-29 14:08:13,658:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,658:      pdf_renderer.py:  470: printSegment: Easily modifiable through the UI
+   DEBUG: 2025-05-29 14:08:13,659:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-29 14:08:13,659:      pdf_renderer.py:  470: printSegment: Generated Files
+   DEBUG: 2025-05-29 14:08:13,659:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,660:      pdf_renderer.py:  470: printSegment: summary_report.txt
+   DEBUG: 2025-05-29 14:08:13,660:      pdf_renderer.py:  470: printSegment: : Detailed weather analysis
+   DEBUG: 2025-05-29 14:08:13,661:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,661:      pdf_renderer.py:  470: printSegment: Weather visualization plots
+   DEBUG: 2025-05-29 14:08:13,662:      pdf_renderer.py:  470: printSegment: Technical Implementation
+   DEBUG: 2025-05-29 14:08:13,662:      pdf_renderer.py:  470: printSegment: Approach
+   DEBUG: 2025-05-29 14:08:13,663:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-29 14:08:13,663:      pdf_renderer.py:  470: printSegment: Data Collection
+   DEBUG: 2025-05-29 14:08:13,665:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,666:      pdf_renderer.py:  470: printSegment: Real-time API integration
+   DEBUG: 2025-05-29 14:08:13,666:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,667:      pdf_renderer.py:  470: printSegment: Efficient data fetching
+   DEBUG: 2025-05-29 14:08:13,668:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,668:      pdf_renderer.py:  470: printSegment: Error handling and validation
+   DEBUG: 2025-05-29 14:08:13,668:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-29 14:08:13,669:      pdf_renderer.py:  470: printSegment: Data Processing
+   DEBUG: 2025-05-29 14:08:13,669:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,670:      pdf_renderer.py:  470: printSegment: Statistical analysis
+   DEBUG: 2025-05-29 14:08:13,670:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,670:      pdf_renderer.py:  470: printSegment: Weather pattern recognition
+   DEBUG: 2025-05-29 14:08:13,671:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,671:      pdf_renderer.py:  470: printSegment: Data structuring and organization
+   DEBUG: 2025-05-29 14:08:13,671:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-29 14:08:13,672:      pdf_renderer.py:  470: printSegment: Visualization
+   DEBUG: 2025-05-29 14:08:13,672:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,673:      pdf_renderer.py:  470: printSegment: Interactive Plotly charts
+   DEBUG: 2025-05-29 14:08:13,673:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,673:      pdf_renderer.py:  470: printSegment: Statistical visualizations
+   DEBUG: 2025-05-29 14:08:13,674:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,674:      pdf_renderer.py:  470: printSegment: Real-time updates
+   DEBUG: 2025-05-29 14:08:13,674:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-05-29 14:08:13,675:      pdf_renderer.py:  470: printSegment: User Experience
+   DEBUG: 2025-05-29 14:08:13,675:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,675:      pdf_renderer.py:  470: printSegment: Intuitive interface
+   DEBUG: 2025-05-29 14:08:13,676:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,676:      pdf_renderer.py:  470: printSegment: Dynamic city management
+   DEBUG: 2025-05-29 14:08:13,676:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,677:      pdf_renderer.py:  470: printSegment: Comprehensive weather insights
+   DEBUG: 2025-05-29 14:08:13,677:      pdf_renderer.py:  470: printSegment: Running the Code
+   DEBUG: 2025-05-29 14:08:13,678:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-29 14:08:13,678:      pdf_renderer.py:  470: printSegment: Setup
+   DEBUG: 2025-05-29 14:08:13,679:      pdf_renderer.py:  470: printSegment: pip install -r requirements.txt
+   DEBUG: 2025-05-29 14:08:13,679:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-29 14:08:13,680:      pdf_renderer.py:  470: printSegment: Execution
+   DEBUG: 2025-05-29 14:08:13,680:      pdf_renderer.py:  470: printSegment: streamlit run streamlit_app.py
+   DEBUG: 2025-05-29 14:08:13,680:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-29 14:08:13,681:      pdf_renderer.py:  470: printSegment: Access
+   DEBUG: 2025-05-29 14:08:13,681:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,682:      pdf_renderer.py:  470: printSegment: Open browser: http://localhost:8501
+   DEBUG: 2025-05-29 14:08:13,683:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,683:      pdf_renderer.py:  470: printSegment: Real-time dashboard access
+   DEBUG: 2025-05-29 14:08:13,684:      pdf_renderer.py:  470: printSegment: Key Assumptions
+   DEBUG: 2025-05-29 14:08:13,684:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-29 14:08:13,685:      pdf_renderer.py:  470: printSegment: Technical Requirements
+   DEBUG: 2025-05-29 14:08:13,685:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,686:      pdf_renderer.py:  470: printSegment: Python 3.x environment
+   DEBUG: 2025-05-29 14:08:13,686:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,686:      pdf_renderer.py:  470: printSegment: Internet connectivity
+   DEBUG: 2025-05-29 14:08:13,687:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,687:      pdf_renderer.py:  470: printSegment: Basic system resources
+   DEBUG: 2025-05-29 14:08:13,688:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-29 14:08:13,688:      pdf_renderer.py:  470: printSegment: API Access
+   DEBUG: 2025-05-29 14:08:13,688:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,689:      pdf_renderer.py:  470: printSegment: Valid OpenWeatherMap API key
+   DEBUG: 2025-05-29 14:08:13,689:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,690:      pdf_renderer.py:  470: printSegment: Sufficient API quota
+   DEBUG: 2025-05-29 14:08:13,690:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,691:      pdf_renderer.py:  470: printSegment: Stable API service
+   DEBUG: 2025-05-29 14:08:13,691:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-29 14:08:13,692:      pdf_renderer.py:  470: printSegment: Data Considerations
+   DEBUG: 2025-05-29 14:08:13,692:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,692:      pdf_renderer.py:  470: printSegment: Valid city names
+   DEBUG: 2025-05-29 14:08:13,693:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,693:      pdf_renderer.py:  470: printSegment: Available weather data
+   DEBUG: 2025-05-29 14:08:13,694:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,694:      pdf_renderer.py:  470: printSegment: Real-time updates
+   DEBUG: 2025-05-29 14:08:13,695:      pdf_renderer.py:  470: printSegment: Additional Notes
+   DEBUG: 2025-05-29 14:08:13,695:      pdf_renderer.py:  470: printSegment: Error Handling
+   DEBUG: 2025-05-29 14:08:13,696:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,696:      pdf_renderer.py:  470: printSegment: Robust API error management
+   DEBUG: 2025-05-29 14:08:13,697:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,697:      pdf_renderer.py:  470: printSegment: Invalid input handling
+   DEBUG: 2025-05-29 14:08:13,697:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,698:      pdf_renderer.py:  470: printSegment: System resource monitoring
+   DEBUG: 2025-05-29 14:08:13,698:      pdf_renderer.py:  470: printSegment: Future Enhancements
+   DEBUG: 2025-05-29 14:08:13,699:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-29 14:08:13,699:      pdf_renderer.py:  470: printSegment: Historical data tracking
+   DEBUG: 2025-05-29 14:08:13,699:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-29 14:08:13,700:      pdf_renderer.py:  470: printSegment: Weather forecasting
+   DEBUG: 2025-05-29 14:08:13,700:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-29 14:08:13,700:      pdf_renderer.py:  470: printSegment: Custom alert systems
+   DEBUG: 2025-05-29 14:08:13,701:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-05-29 14:08:13,701:      pdf_renderer.py:  470: printSegment: Additional visualizations
+   DEBUG: 2025-05-29 14:08:13,701:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-05-29 14:08:13,702:      pdf_renderer.py:  470: printSegment: Data export capabilities
+   DEBUG: 2025-05-29 14:08:13,702:      pdf_renderer.py:  470: printSegment: Testing
+   DEBUG: 2025-05-29 14:08:13,703:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,703:      pdf_renderer.py:  470: printSegment: API integration testing
+   DEBUG: 2025-05-29 14:08:13,703:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,704:      pdf_renderer.py:  470: printSegment: UI component testing
+   DEBUG: 2025-05-29 14:08:13,704:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-29 14:08:13,704:      pdf_renderer.py:  470: printSegment: Error scenario handling
+   DEBUG: 2025-05-29 14:08:13,707:      pdf_renderer.py:  470: printSegment: This submission represents a complete solution for weather monitoring and analysis, with emphasis on user
+   DEBUG: 2025-05-29 14:08:13,707:      pdf_renderer.py:  470: printSegment: experience, data accuracy, and system reliability.
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 0, [1, 'Weather Dashboard Project Submission', 1, 68.0]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 1, [2, 'Project Overview', 1, 106.0]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 2, [2, 'Submission Contents', 1, 181.60000000000002]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 3, [3, 'Core Files', 1, 214.80000000000004]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 4, [3, 'Supporting Files', 1, 495.6]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 5, [2, 'Technical Implementation', 1, 632.8]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 6, [3, 'Approach', 1, 665.9999999999999]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 7, [3, 'Running the Code', 2, 302.4]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 8, [3, 'Key Assumptions', 2, 463.19999999999993]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 9, [2, 'Additional Notes', 2, 684.3999999999999]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 10, [3, 'Error Handling', 3, 72.0]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 11, [3, 'Future Enhancements', 3, 148.8]
+   DEBUG: 2025-05-29 14:08:13,708:      pdf_renderer.py:   53: 12, [3, 'Testing', 3, 249.60000000000002]

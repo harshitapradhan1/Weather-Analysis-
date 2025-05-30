@@ -1,0 +1,57 @@
+Weather Analysis Report
+Generated on: 2025-05-29 14:13:18
+==================================================
+
+Temperature Analysis:
+Highest Temperature: 30.0°C in Mumbai
+Lowest Temperature: 13.8°C in New York
+Average Temperature: 19.6°C
+
+Weather Conditions:
+
+Cities with clear/sunny weather: 0
+These cities are: None
+
+Detailed City Information:
+-----------------------
+
+New York:
+  Temperature: 13.8°C
+  Humidity: 94%
+  Wind Speed: 4.31 m/s
+  Weather: overcast clouds
+
+London:
+  Temperature: 17.9°C
+  Humidity: 83%
+  Wind Speed: 5.67 m/s
+  Weather: overcast clouds
+
+Tokyo:
+  Temperature: 20.7°C
+  Humidity: 53%
+  Wind Speed: 4.02 m/s
+  Weather: moderate rain
+
+Paris:
+  Temperature: 19.3°C
+  Humidity: 58%
+  Wind Speed: 2.79 m/s
+  Weather: overcast clouds
+
+Sydney:
+  Temperature: 15.6°C
+  Humidity: 72%
+  Wind Speed: 5.08 m/s
+  Weather: overcast clouds
+
+Mumbai:
+  Temperature: 30.0°C
+  Humidity: 80%
+  Wind Speed: 6.11 m/s
+  Weather: overcast clouds
+
+Note: Additional visualizations have been saved as:
+- temperature_comparison.png (Temperature comparison across cities)
+- weather_metrics.png (Temperature and humidity comparison)
+- wind_speed_distribution.png (Wind speed distribution)
